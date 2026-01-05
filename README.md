@@ -6,50 +6,38 @@
 ## ✨ Features >>
 
 ### 🔐 Authentication
-- User login & registration
-- Secure authentication flow
+- User login & registration and Secure authentication flow.
 
 ### 🚀 Splash
-- Initial app loading screen
-- Navigation based on user state
+- Initial app loading screen and Navigation based on user state.
 
 ### 🏠 Home
-- Browse products
-- Featured and recommended items
+- Browse products and Featured and recommended items.
 
 ### 🔍 Search
-- Search for products
-- Filter and discover items easily
+- Search for products and Filter and discover items easily.
 
 ### 📄 Product Details
-- View product images and descriptions
-- Price and availability details
+- View product images and descriptions and Price and availability details.
 
 ### ❤️ Favorites
-- Add/remove products from favorites
-- Persist favorite items
+- Add/remove products from favorites and Persist favorite items.
 
 ### 🛒 Cart
-- Add products to cart
-- Update quantity or remove items
-- View total price
+- Add products to cart, Update quantity or remove items and View total price.
 
 ### 💳 Payment
 - Complete checkout process By <b><i>PayMob</i></b>
-- PaymentMethodScreen {Credit Card / Wallet}
-- Handle payment success & failure
-- Payment result screen
+- PaymentMethodScreen {Credit Card / Wallet} , Handle payment success & failure and Payment result screen.
 
 ### 👤 Profile
-- View and manage user profile
-- Account-related actions
+- View and manage user profile and Account-related actions.
 
 ### 🧩 Common
-- Reusable UI components
-- Shared composables and utilities
+- Reusable UI components and Shared composables and utilities.
 
 
-## 💡 Technologies Used::
+## 🛠️ Technologies Used::
 - language: Kotlin </br>
 - UI layouts using Jetpack Compose </br>
 - Multi-screen by navigation compose </br>
@@ -60,11 +48,10 @@
 - MVI architecture </br>
 - Retrofit2 & Gson - construct the REST APIs. </br>
 - Firebase (Authentication - Firestore Database)  </br>
-- Flow </br>
 - Room Database </br>
 - Dependency injection by (Dagger Hilt) </br>
 - ViewModel & StateFlow </br>
-- Coroutines for asynchronous </br>
+- Coroutines / Flow for asynchronous </br>
 - Integration Payment Gateway By (<b><i>PayMob</i></b>)
 - Unit Testing  </br>
 - Mocking (mockk)  </br>
