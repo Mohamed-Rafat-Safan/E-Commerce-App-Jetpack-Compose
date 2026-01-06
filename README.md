@@ -3,38 +3,25 @@
 - A E-Commerce Android application built using Jetpack Compose, following clean architecture principles and modern Android development best practices, and provides a smooth and intuitive shopping experience, allowing users to browse products, manage their cart, and complete payments efficiently.
 
 
-## ✨ Features >>
+## ✨ Features 
 
-### 🔐 Authentication
-- User login & registration and Secure authentication flow.
-
-### 🚀 Splash
-- Initial app loading screen and Navigation based on user state.
-
-### 🏠 Home
-- Browse products and Featured and recommended items.
-
-### 🔍 Search
-- Search for products and Filter and discover items easily.
-
-### 📄 Product Details
-- View product images and descriptions and Price and availability details.
-
-### ❤️ Favorites
-- Add/remove products from favorites and Persist favorite items.
-
-### 🛒 Cart
-- Add products to cart, Update quantity or remove items and View total price.
-
-### 💳 Payment
-- Complete checkout process By <b><i>PayMob</i></b>
-- PaymentMethodScreen {Credit Card / Wallet} , Handle payment success & failure and Payment result screen.
-
-### 👤 Profile
-- View and manage user profile and Account-related actions.
-
-### 🧩 Common
-- Reusable UI components and Shared composables and utilities.
+      🔐 Authentication ==> User login & registration and Secure authentication flow.
+      
+      🚀 Splash Screen ==> Initial app loading screen and Navigation based on user state.
+      
+      🏠 Home Screen ==> Browse products and Featured and recommended items.
+      
+      🔍 Search Screen ==> Search for products and Filter and discover items easily.
+      
+      📄 Product Details Screen ==> View product images and descriptions and Price and availability details.
+      
+      ❤️ Favorites Screen ==> Add/remove products from favorites and Persist favorite items.
+      
+      🛒 Cart Screen ==> Add products to cart, Update quantity or remove items and View total price.
+      
+      👤 Profile Screen ==> View and manage user profile and Account-related actions.
+      
+      💳 Payment Screen ==> Complete checkout process By <b><i>PayMob</i></b> , PaymentMethodScreen {Credit Card / Wallet} , Handle payment success & failure and Payment result screen.
 
 
 ## 🛠️ Technologies Used::
