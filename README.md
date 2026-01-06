@@ -45,7 +45,7 @@
 - lottie animation  </br>
 - Coil Compose  </br>
 - Clean Architecture {presentation - domain - data} </br>
-- MVI architecture </br>
+- MVVM/MVI architecture </br>
 - Retrofit2 & Gson - construct the REST APIs. </br>
 - Firebase (Authentication - Firestore Database)  </br>
 - Room Database </br>
