@@ -145,7 +145,7 @@
 <img src="https://github.com/user-attachments/assets/a6932507-d9f2-4eee-afe8-79484e4431f1" width="185" height="400" />
  <span> &nbsp;  &nbsp;  </span>
 <img src="https://github.com/user-attachments/assets/ca6b5b6a-19e7-415a-b1f1-4766ab757e6b" width="185" height="400" />
-</p>
+</p>  <br>
 
 
 ## Architecture
